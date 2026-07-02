@@ -1,10 +1,10 @@
 # MACROPeX
 
-<p <<img width="442" height="629" alt="77a6c3cb-27c8-4bdf-92de-b22e98306fc0" src="https://github.com/user-attachments/assets/fb0d7236-70ea-49d6-b743-299a2c53d220" />
- />
- />
-align="center">
-  <img src="hero.png" alt="MACROPeX" width="800">
+<p  />
+
+
+  <img width="442" height="629" alt="77a6c3cb-27c8-4bdf-92de-b22e98306fc0" src="https://github.com/user-attachments/assets/8f79a954-54a3-4fe3-841a-2d0152a7243e" />
+
 </p>
 
 <p align="center">
@@ -51,12 +51,14 @@ Although this is one of my first PCB designs, the board has been carefully devel
 ## PCB Render
 
 <p align="center">
-<img <<img width="578" height="639" alt="a4587d3d-154b-4731-aa07-a0af88bb5a10" src="https://github.com/user-attachments/assets/2d70b0a2-a4b5-43ed-a8f0-24a5371862ea" />
- />
-<img width="1600" height="900" alt="Screenshot 2026-07-02 144526" src="https://github.com/user-attachments/assets/1f0e473f-942e-4df2-a010-92c7c239996e" />
-src="pcb_front.png" width="450">
+ <img width="1359" height="681" alt="Screenshot 2026-07-02 232808" src="https://github.com/user-attachments/assets/ac258443-b7d5-46e1-95d0-d15b103adb72" />
+<img width="578" height="639" alt="a4587d3d-154b-4731-aa07-a0af88bb5a10" src="https://github.com/user-attachments/assets/2d70b0a2-a4b5-43ed-a8f0-24a5371862ea" />
 
-<img src="pcb_back.png" width="450">
+<img width="1600" height="612" alt="Screenshot 2026-07-02 230830" src="https://github.com/user-attachments/assets/3b5320a1-98cb-4dcb-b733-67f8afbc35f8" />
+
+
+
+
 </p>
 
 ---
@@ -70,9 +72,11 @@ The PCB also includes expansion pins, allowing users to connect additional hardw
 ## Schematic
 
 <p align="center">
-<img<img width="1600" height="760" alt="Screenshot 2026-07-02 230538" src="https://github.com/user-attachments/assets/b7921635-8bb6-4b19-9d79-c36ebd06d5e8" />
-<img width="1600" height="631" alt="Screenshot 2026-07-02 230553" src="https://github.com/user-attachments/assets/7848073c-9160-40ea-8d24-043c1d04c362" />
- src="schematic.png" width="900">
+<img width="1600" height="760" alt="Screenshot 2026-07-02 230538" src="https://github.com/user-attachments/assets/b7921635-8bb6-4b19-9d79-c36ebd06d5e8" />
+ 
+<img width="1600" height="760" alt="Screenshot 2026-07-02 230538" src="https://github.com/user-attachments/assets/82e9cc23-a561-45c6-b6d8-12f45a505df6" />
+ 
+
 </p>
 
 ---
