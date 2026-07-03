@@ -119,7 +119,7 @@ This hardware design is released as **Open Source Hardware**.
 
 ## Software
 
-The firmware and software are released under the **MIT License**.
+The firmware and software is present in the repositry.
 
 ---
 
