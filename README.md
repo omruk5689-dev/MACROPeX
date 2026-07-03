@@ -129,4 +129,4 @@ The firmware and software are released under the **MIT License**.
 
 ---
 
-⭐ If you like this project, consider starring this repository.
+ If you like this project, consider starring this repository.
