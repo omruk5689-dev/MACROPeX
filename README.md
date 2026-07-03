@@ -23,7 +23,7 @@ This is one of the first PCBs I have ever designed, so there may be some imperfe
 
 ---
 
-# ✨ Custom Features
+# Custom Features
 
 - 3 Dffrent Keyboard Layout Can Be Use
 - 9 Mechanical Keys
