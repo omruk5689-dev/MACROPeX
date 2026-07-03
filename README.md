@@ -25,6 +25,7 @@ This is one of the first PCBs I have ever designed, so there may be some imperfe
 
 # ✨ Custom Features
 
+- 3 Dffrent Keyboard Layout Can Be Use
 - 9 Mechanical Keys
 - 3 Rotary Encoders
 - Powered by Raspberry Pi Pico (RP2040)
