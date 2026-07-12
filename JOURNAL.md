@@ -248,3 +248,9 @@ The project includes:
 <img width="2160" height="2775" alt="3D_pcb_2026-07-03" src="https://github.com/user-attachments/assets/42e7b462-a26c-4343-886d-3e146c76e593" />
 
 
+
+
+
+
+**Note:** The reported work hours represent the actual effort invested in the project. The day-wise schedule is provided for documentation purposes and serves as a general representation of the project's development timeline.
+
